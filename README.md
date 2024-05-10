@@ -1,5 +1,5 @@
-# smartView
-a tool to visualize the data coming from smart online database
+# smartExtract
+a tool to Extract the data coming from smart online database
 
 ## Author info
 
@@ -20,15 +20,15 @@ liushuotong SDUW 2024
 ## Example
 
 ```bash
-smartView -h/--help       # show help message
-smartView -v/--view       # process data and show result
-smartView -c/--config     # show config message
+smartExtract -h/--help       # show help message
+smartExtract -v/--view       # process data and show result
+smartExtract -c/--config     # show config message
 ```
 
 **if you have not add smartView to PATH**
 
 ```bash
-python location/you/put/smartView/in -h/--help       # show help message
-python location/you/put/smartView/in -v/--view       # process data and show result
-python location/you/put/smartView/in -c/--config     # show config message
+python location/you/put/smartExtract/in -h/--help       # show help message
+python location/you/put/smartExtract/in -v/--view       # process data and show result
+python location/you/put/smartExtract/in -c/--config     # show config message
 ```
